@@ -46,5 +46,5 @@ npx allure open allure-report
 ```
 
 # Documentation
-[Sauce Labs - Automated Mobile App Testing](https://docs.saucelabs.com/mobile-apps/automated-testing/)
-[Sauce Labs - File Storage API Endpoints](https://docs.saucelabs.com/dev/api/storage/)
+- [Sauce Labs - Automated Mobile App Testing](https://docs.saucelabs.com/mobile-apps/automated-testing/)
+- [Sauce Labs - File Storage API Endpoints](https://docs.saucelabs.com/dev/api/storage/)
